@@ -16,8 +16,8 @@
     <PackageReference Include="Microsoft.Toolkit.Uwp.UI.Controls">
       <Version>7.0.0-preview4</Version>
     </PackageReference>
-    <PackageReference Include="Uno.Core" Version="2.1.0" />
-    <PackageReference Include="Uno.UI" Version="3.3.0" />
+    <PackageReference Include="Uno.Core" Version="2.2.0-dev.3" />
+    <PackageReference Include="Uno.UI" Version="3.5.0-dev.223" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Filter" Version="1.1.2" />
   </ItemGroup>
@@ -31,7 +31,7 @@
     <AssemblyName>MyApp</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.17763.0</TargetPlatformVersion>
+    <TargetPlatformVersion>10.0.19041.0</TargetPlatformVersion>
     <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <FileAlignment>512</FileAlignment>

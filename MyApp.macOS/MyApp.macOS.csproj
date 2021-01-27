@@ -73,10 +73,10 @@
       <Version>7.0.0-preview4</Version>
     </PackageReference>
     <PackageReference Include="Uno.Microsoft.Toolkit.Uwp.UI.Controls">
-      <Version>6.1.0-build.201.gdd585882df</Version>
+      <Version>6.1.0-build.207.gcac670e618</Version>
     </PackageReference>
-    <PackageReference Include="Uno.UI" Version="3.3.0" />
-    <PackageReference Include="Uno.UI.RemoteControl" Version="3.3.0" Condition="'$(Configuration)'=='Debug'" />
+    <PackageReference Include="Uno.UI" Version="3.5.0-dev.223" />
+    <PackageReference Include="Uno.UI.RemoteControl" Version="3.5.0-dev.223" Condition="'$(Configuration)'=='Debug'" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Filter" Version="1.1.2" />
   </ItemGroup>

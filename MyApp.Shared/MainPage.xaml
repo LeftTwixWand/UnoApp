@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <NavigationView>
+    <NavigationView RequestedTheme="Light">
         <NavigationView.MenuItems>
             <NavigationViewItem Content="My item">
                 <NavigationViewItem.Icon>
