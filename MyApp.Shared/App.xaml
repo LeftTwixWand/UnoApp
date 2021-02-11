@@ -7,7 +7,8 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Styles/NavigationViewStyle.xaml"/>
+                <XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls" />
+
                 <ResourceDictionary Source="Themes/PurpleTheme.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
